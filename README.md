@@ -29,16 +29,12 @@ The dataset is taken from the Kaggle website and it has a total of 2,84,807 tran
 
 In order to run the project just download the data from above mentioned source then run any file.
 
-# Prerequisites
 
-You need to have installed following softwares and libraries in your machine before running this project.
 
-- Python 3
 
-- Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, scikit-learn.
 
-# Referance
 
-[Siddhardhan](https://www.youtube.com/watch?v=NCgjcHLFNDg&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&index=10)
 
-[Kaggle](https://www.kaggle.com/code/hellbuoy/credit-card-fraud-detection)
+
+
+
